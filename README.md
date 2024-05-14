@@ -4,7 +4,7 @@
 
 * The goal in constructing a supervised learning model was to determine the creditworthiness of loan applicants. A Logistical Regression Model was trained and tested through subsets of the original data. The initial dataset was seperated for the 'y' (dependent) label. The 'y' label was the output in binary form, where '0' was a healthy loan applicant and '1' was a risky loan applicant. Meanwhile, the 'x' dataframe, made up of independent variables, was created by dropping the dependent variable column, 'loan_status." The remaining features included in 'x' are the following: 'loan_size', 'interest_rate','borrower_income','debt_to_income','num_of_accounts','derogatory_marks', and 'total_debt'. 
 
-* The model was trained on a subset of x (x_train) and y (y_train). Then the model was was tested for the accuracy of its predictions by providing the x_test subset, whereby the model would predict test outcomes (y). 
+* The model was trained on a subset of x (x_train) and y (y_train). Then the model was tested for the accuracy of its predictions by providing the x_test subset, whereby the model would predict test outcomes (y). 
 
 ## Results 
 
