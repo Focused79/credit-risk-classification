@@ -10,7 +10,7 @@
 
 The logistic regression model performed exceptionally well when predicting categorical outcomes of '0" (healthy) and '1' (risky). 
 
-* The precision outcome for the Healthy loan applicant was perfect, at 100-percent (rounded at two decimal points). The Risky loan applicant category was slightly worse at 87-perecent (rounded at two decimal points). 
+* The precision outcome for the Healthy loan applicant was perfect, at 100-percent (rounded at two decimal points). The Risky loan applicant category was slightly worse at 87-percent (rounded at two decimal points). 
 * Recall for the Healthy category was once again perfect, coming in at 100-percent (rounded at two decimal points). 
 * The weighted combinations of both the Healthy and Risky categories (f1) were also highly accurate, coming in at 100% and 91-percent (both rounded at the two decimal point), respectively. 
 * The collective accuracy was 99-percent. 
