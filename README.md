@@ -15,7 +15,7 @@ The logistic regression model performed exceptionally well when predicting categ
 * The weighted combinations of both the Healthy and Risky categories (f1) were also highly accurate, coming in at 100% and 91-percent (both rounded at the two decimal point), respectively. 
 * The collective accuracy was 99-percent. 
 
-Overall, the logistic regression model excelled better with predicting the Healthy loan status than the Risky loan status; nvertheless, the model's achievement was outstanding overall. Given the result of the model's predictions, I recommend that the Logistical Regression model be utilized for the analysis. 
+Overall, the logistic regression model excelled better with predicting the Healthy loan status than the Risky loan status; nevertheless, the model's achievement was outstanding overall. Given the result of the model's predictions, I recommend that the Logistical Regression model be utilized for the analysis. 
 
 ## Resources used in module:
 1. Class lectures/slides.
